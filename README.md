@@ -10,7 +10,7 @@ Without further ado...
   - [HTML](#html)
   - [CSS](#css)
 - [Frameworks](#frameworks)
-  - [Front End](#frontend)
+  - [Front End](#front-end)
 
 ---
 ### HTML CSS
