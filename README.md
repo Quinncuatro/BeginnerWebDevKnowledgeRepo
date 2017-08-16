@@ -40,10 +40,10 @@ We use Version 3 in our online videos. You can try to use a newer version, but y
 We recommend using Version 1.4.5 - and demo code is available [here](http://demos.jquerymobile.com/1.4.5/).
 
 ### Git and GitHub
-> Git and GitHub are very important tools in the development communicty. Git (the technology on your computer) and GitHub (a website you can interface with using Git) combine to help accomplish a few different tasks. At they're heart, they give you a way to both store and share your code offsite and with the world.
+Git and GitHub are very important tools in the development communicty. Git (the technology on your computer) and GitHub (a website you can interface with using Git) combine to help accomplish a few different tasks. At they're heart, they give you a way to both store and share your code offsite and with the world.
 
 #### Git
-> Git is a version control system used to track changes in files. Initially we're going to be using it to both keep track of your own work and to package your code up in commits so that you can share it with your instructors and the world using GitHub.
+Git is a version control system used to track changes in files. Initially we're going to be using it to both keep track of your own work and to package your code up in commits so that you can share it with your instructors and the world using GitHub.
 
 * [Basic Git Tutorial](https://try.github.io/levels/1/challenges/1)
 jdslkfjds
@@ -51,12 +51,12 @@ jdslkfjds
 fdsfjdsla
 
 #### GitHub
-> GitHub is one of several (but a very popular) web-based Git repository hosting service. Meaning you do use Git on our computers to keep track of changes, but we can use websites like GitHub to share your code with others and to allow collaboration without stepping on other peoples' toes.
+GitHub is one of several (but a very popular) web-based Git repository hosting service. Meaning you do use Git on our computers to keep track of changes, but we can use websites like GitHub to share your code with others and to allow collaboration without stepping on other peoples' toes.
 
 * [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world/')
 fdksfdks
 
-#### Resources for College Students and Employees
+### Resources for College Students and Employees
 > If you have an email address ending in .edu, there are all sorts of companies give out free trials and products to encourage students to learn how to code.
 
 * [GitHub Student Developer Pack](https://education.github.com/pack)
