@@ -15,6 +15,7 @@ Without further ado...
   - [Git](#git)
   - [GitHub](#github)
 - [Resources for College Students and Employees](#resources-for-college-students-and-employees)
+- [Coming Soon](#coming-soon)
 - [Hosting](#hosting)
 
 ---
@@ -61,6 +62,15 @@ fdksfdks
 
 * [GitHub Student Developer Pack](https://education.github.com/pack)
 GitHub collects a lot of tools from different companies to give out on one page. Chief among these are free private repositories on GitHub, free cloud hosting credit with DigitalOcean, and a free .me domain name with Namecheap.
+
+---
+## Coming Soon
+
+### Browser Extensions
+
+### Code Editors and Plugins
+
+### JavaScript Resources (Beginner & Intermediate)
 
 ### Hosting
 > Hosting is a very broad and expansive topic. In the future, we'll hold (and potentially record) Hack Night sessions where we talk about different kinds of hosting solutions, platforms, and best practices. This isn't something we need to worry about yet, though.
