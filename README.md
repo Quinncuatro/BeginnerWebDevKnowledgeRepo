@@ -72,5 +72,7 @@ GitHub collects a lot of tools from different companies to give out on one page.
 
 ### JavaScript Resources (Beginner & Intermediate)
 
+### Various Languages For Front/Back End
+
 ### Hosting
 > Hosting is a very broad and expansive topic. In the future, we'll hold (and potentially record) Hack Night sessions where we talk about different kinds of hosting solutions, platforms, and best practices. This isn't something we need to worry about yet, though.
