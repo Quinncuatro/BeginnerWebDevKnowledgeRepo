@@ -46,6 +46,10 @@ Git and GitHub are very important tools in the development communicty. Git (the 
 #### Git
 Git is a version control system used to track changes in files. Initially we're going to be using it to both keep track of your own work and to package your code up in commits so that you can share it with your instructors and the world using GitHub.
 
+##### Desktop Application
+* [GitHub Desktop](https://desktop.github.com/)
+
+##### Command Line Tutorials
 * [Basic Git Tutorial](https://try.github.io/levels/1/challenges/1)
 jdslkfjds
 * [Expanded Git Tutorials](https://www.atlassian.com/git/tutorials)
