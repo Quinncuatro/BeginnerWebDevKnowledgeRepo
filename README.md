@@ -51,15 +51,12 @@ Git is a version control system used to track changes in files. Initially we're 
 
 ##### Command Line Tutorials
 * [Basic Git Tutorial](https://try.github.io/levels/1/challenges/1)
-jdslkfjds
 * [Expanded Git Tutorials](https://www.atlassian.com/git/tutorials)
-fdsfjdsla
 
 #### GitHub
 GitHub is one of several (but a very popular) web-based Git repository hosting service. Meaning you do use Git on our computers to keep track of changes, but we can use websites like GitHub to share your code with others and to allow collaboration without stepping on other peoples' toes.
 
 * [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world/')
-fdksfdks
 
 ### Resources for College Students and Employees
 > If you have an email address ending in .edu, there are all sorts of companies give out free trials and products to encourage students to learn how to code.
