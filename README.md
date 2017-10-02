@@ -27,6 +27,7 @@ Without further ado...
 
 #### HTML
 * [List of HTML Elements](https://www.w3schools.com/TAGs/default.asp)
+* [w3schools HTML Quiz](https://www.w3schools.com/html/html_quiz.asp)
 
 #### CSS
 * [List of CSS Rules](https://www.w3schools.com/cssref/)
