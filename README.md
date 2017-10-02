@@ -9,6 +9,9 @@ Without further ado...
 - [HTML and CSS](#html-and-css)
   - [HTML](#html)
   - [CSS](#css)
+- [Styleguides](#styleguides)
+  - [HTML and CSS Styleguides](#html-and-css-styleguides)
+  - [JS Styleguides](#js-styleguides)
 - [Frameworks](#frameworks)
   - [Front End](#front-end)
 - [Git and GitHub](#git-and-github)
@@ -28,6 +31,14 @@ Without further ado...
 #### CSS
 * [List of CSS Rules](https://www.w3schools.com/cssref/)
 * [Intro to Web Colors](https://www.w3schools.com/html/html_colors.asp)
+
+### Styleguides
+
+#### HTML and CSS Styleguides
+* [Google's HTML/CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
+
+#### JS Styleguides
+* [Google's JS Styleguide](https://google.github.io/styleguide/jsguide.html)
 
 ### Frameworks
 > Frameworks are just collections of pre-written code that you can utilize in your projects. The ones we have listed under [Front End](#front-end) are basically just precompiled sets of CSS and JavaScript that help you make a pretty looking website without having to get into any of the nitty gritty.
