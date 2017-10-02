@@ -9,6 +9,8 @@ Without further ado...
 - [HTML and CSS](#html-and-css)
   - [HTML](#html)
   - [CSS](#css)
+- [Code Sandboxes](#code-sandboxes)
+  - [CodePen](#codepen)
 - [Styleguides](#styleguides)
   - [HTML and CSS Styleguides](#html-and-css-styleguides)
   - [JS Styleguides](#js-styleguides)
@@ -32,6 +34,12 @@ Without further ado...
 #### CSS
 * [List of CSS Rules](https://www.w3schools.com/cssref/)
 * [Intro to Web Colors](https://www.w3schools.com/html/html_colors.asp)
+
+### Code Sandboxes
+> There are various places online where you can play around with code and instantly see the results of what you're writing. These are some of our favorites.
+
+#### [CodePen](https://codepen.io)
+> CodePen gives you boxes to write HTML (jump straight into the body), CSS, and JS (pretend it's all wrapped in a window.onLoad() function) and immediate see what you're producing. There are even included utilities like a built in console for when you want to console.log() stuff out to work through error checks.
 
 ### Styleguides
 
