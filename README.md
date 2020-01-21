@@ -1,8 +1,6 @@
-## **Framework Knowledge Repo** [![Awesome](https://img.shields.io/badge/Created_By-LearnToProgram.tv-10ABE4.svg?style=flat)](https://learntoprogram.tv)
-
 ### Introduction
 
-We LTP staff members go on a lot of tangents about different web technologies, best practices, and various online articles. Rather than let all of that knowledge go to waste or get lost in Slack groups, we're going to keep track of everything we mention here, so that you might find your way back to a particular nugget of wisdom.
+In a past job, my coworkers and I went on a lot of tangents about different web technologies, best practices, and various online articles. Rather than let all of that knowledge go to waste or get lost in Slack groups, we're going to keep track of everything we mention here, so that you might find your way back to a particular nugget of wisdom.
 
 Without further ado...
 
